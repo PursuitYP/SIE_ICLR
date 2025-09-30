@@ -12,9 +12,6 @@ Large language models (LLMs) have achieved significant advancements in reasoning
 ## Installation
 Follow https://github.com/volcengine/verl and prepare environment for verl.
 
-## Datasets
-Download data from https://huggingface.co/datasets/pursuitYP/SIE_data.
-
 ## Training
 Run bash examples/sie_trainer/run_it_grpo_0.sh.
 
